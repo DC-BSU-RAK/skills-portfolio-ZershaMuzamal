@@ -1,7 +1,5 @@
 """
 Assessment 1 - Joke Assistant Application
-Student Name: [Your Name Here]
-Date: November 2025
 
 -------------------------------------------------------------------------
 ACADEMIC REFERENCES & RESOURCES USED
